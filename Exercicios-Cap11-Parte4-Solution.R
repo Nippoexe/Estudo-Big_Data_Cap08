@@ -1,4 +1,4 @@
-# Solução Lista de Exercícios Parte 4 - Capítulo 11
+# Solução Lista de Exercícios Parte 4
 
 # Obs: Caso tenha problemas com a acentuação, consulte este link:
 # https://support.rstudio.com/hc/en-us/articles/200532197-Character-Encoding
